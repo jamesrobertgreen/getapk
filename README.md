@@ -3,4 +3,4 @@ If an exact match is not found, it searches all packages on the device for a mat
 
 
 Usage:
-./get-apk <package name/partial package name>
+./get-apk.sh <package name/partial package name>
